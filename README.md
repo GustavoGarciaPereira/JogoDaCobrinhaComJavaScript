@@ -1,2 +1,2 @@
 # JogoDaCobrinhaComJavaScript
-Contruindo um jogo com java Stript
+Construindo um jogo com java Stript

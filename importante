@@ -1,0 +1,3 @@
+Eu criei um pequeno servidor usando o modulo express.
+Então se quiser ver funcionando, deve entrar na pasta
+"JogoSnakJavaScript" e abrir o terminal e rodar o comando "node app.js"
